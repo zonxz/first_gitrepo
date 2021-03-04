@@ -5,3 +5,6 @@ Need a Elder, show the way
 Otherwise walk blind.
 
 VIM is a hobby. Hopefully its default.
+
+this is a script test for commit/push from cli
+I don't have time to work to hard
