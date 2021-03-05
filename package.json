@@ -1,0 +1,22 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "this is me learning the MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "C-83",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  }
+}
